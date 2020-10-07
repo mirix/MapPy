@@ -81,7 +81,7 @@ Gana,GH,Acra,ganês / ganesa,ganês /ganesa,cedi,Africa,5,5.55,-0.216667
 Geórgia,GE,Tiblíssi,georgiano/a,georgiano/a,lari,Europe,2,41.68333333333333,44.833333
 Gibraltar,GI,Gibraltar,gibraltarino/a,gibraltarino/a,libra gibraltarina,Europe,2,36.13333333333333,-5.35
 Granada,GD,São Jorge,granadino/a,granadino/a,dólar das Caraíbas Orientais,North America,3,12.05,-61.75
-Grécia,EL,Atenas,grego/a,grego/a,euro,Europe,2,41.31666666666667,19.816667000000002
+Grécia,EL,Atenas,grego/a,grego/a,euro,Europe,2,37.983333333333334,23.733333
 Gronelândia,GL,Nuuk,gronelandês / gronelandesa,gronelandês /gronelandesa,coroa dinamarquesa,North America,3,64.18333333333334,-51.75
 Guadalupe,GP,Basse-Terre,guadalupino/a,guadalupino/a,euro,North America,3,39.016666666666666,125.75
 Guame,GU,Aganha,guamês / guamesa,guamês /guamesa,dólar dos Estados Unidos,Oceania,1,13.466666666666667,144.73333300000002
@@ -110,7 +110,6 @@ Ilhas Marshall,MH,Majuro,marshallino/a,marshallino/a,dólar dos Estados Unidos,O
 Ilhas Pitcairn,PN,Adamstown,pitcairnês / pitcairnesa,pitcairnês /pitcairnesa,dólar neozelandês,Oceania,1,-25.066666666666666,-130.083333
 Ilhas Salomão,SB,Honiara,salomonense,salomonense,dólar salomonense,Oceania,1,-9.433333333333334,159.95
 Ilhas Turcas e Caicos,TC,Cockburn Town,das Ilhas Turcas e Caicos,das Ilhas Turcas e Caicos,dólar dos Estados Unidos,North America,3,21.466666666666665,-71.133333
-Ilhas Virgens Americanas,VI,Charlotte Amalie,das Ilhas Virgens Americanas,das Ilhas Virgens Americanas,dólar dos Estados Unidos,North America,3,18.35,-64.93333299999999
 Ilhas Virgens Britânicas,VG,Road Town,das Ilhas Virgens Britânicas,das Ilhas Virgens Britânicas,dólar dos Estados Unidos,North America,3,18.416666666666668,-64.616667
 Índia,IN,Nova Déli,indiano/a,indiano/a,rupia indiana,Asia,6,28.6,77.2
 Indonésia,ID,Jacarta,indonésio/a,indonésio/a,rupia indonésia,Asia,6,-6.166666666666668,106.816667
@@ -143,7 +142,6 @@ Maldivas,MV,Malé,maldivo/a,maldivo/a,rupia maldiva,Asia,6,4.166666666666667,73.
 Mali,ML,Bamaco,maliano/a,maliano/a,franco CFA,Africa,5,12.65,-8.0
 Malta,MT,Valeta,maltês / maltesa,maltês /maltesa,euro,Europe,2,35.88333333333333,14.5
 Marrocos,MA,Rabat,marroquino/a,marroquino/a,dirame marroquino,Africa,5,34.016666666666666,-6.816667
-Martinica,MQ,Forte de França,martinicano/a,martinicano/a,euro,North America,3,42.0,21.433332999999998
 Maurícia,MU,Porto Luís,mauriciano/a,mauriciano/a,rupia mauriciana,Africa,5,-20.15,57.483332999999995
 Mauritânia,MR,Nuaquechote,mauritano/a,mauritano/a,ouguiya,Africa,5,18.066666666666666,-15.966667000000001
 México,MX,Cidade do México,mexicano/a,mexicano/a,peso mexicano,North America,3,19.433333333333334,-99.133333
@@ -196,7 +194,6 @@ Santa Sé / Estado da Cidade do Vaticano,VA,— / Cidade do Vaticano,da Santa
 São Bartolomeu,BL,Gustávia,são-bartolomeense,são-bartolomeense,euro,North America,3,17.883333333333333,-62.85
 São Cristóvão e Neves,KN,Basseterre,de São Cristóvão e Neves,de São Cristóvão e Neves,dólar das Caraíbas Orientais,North America,3,17.3,-62.716667
 São Marinho,SM,São Marinho,são-marinhense,são-marinhense,euro,Europe,2,43.93333333333333,12.416667
-São Martinho,MF,Marigot,são-martinhense,são-martinhense,euro,North America,3,18.0731,-63.0822
 São Martinho,SX,Philipsburg,são-martinhense,são-martinhense,florim das Antilhas Neerlandesas,North America,3,18.016666666666666,-63.033333
 São Pedro e Miquelão,PM,São Pedro,de São Pedro e Miquelão,de São Pedro e Miquelão,euro,North America,3,46.76666666666666,-56.183333
 São Tomé e Príncipe,ST,São Tomé,são-tomense,são-tomense,dobra,Africa,5,0.3333333333333333,6.733333

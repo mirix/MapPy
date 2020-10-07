@@ -83,7 +83,7 @@ Georgia,GE,Tbilisi,Georgian,Georgian,lari,Europe,2,41.68333333333333,44.833333
 Germany,DE,Berlin,German,German,euro,Europe,2,52.51666666666666,13.4
 Ghana,GH,Accra,Ghanaian,Ghanaian,Ghana cedi,Africa,5,5.55,-0.216667
 Gibraltar,GI,Gibraltar,Gibraltarian,Gibraltarian,Gibraltar pound,Europe,2,36.13333333333333,-5.35
-Greece,EL,Athens,Greek,Greek,euro,Europe,2,41.31666666666667,19.816667000000002
+Greece,EL,Athens,Greek,Greek,euro,Europe,2,37.983333333333334,23.733333
 Greenland,GL,Nuuk,Greenlander,Greenlandic,Danish krone,North America,3,64.18333333333334,-51.75
 Grenada,GD,St George’s,Grenadian,Grenadian,East Caribbean dollar,North America,3,12.05,-61.75
 Guadeloupe,GP,Basse Terre,Guadeloupean,Guadeloupean,euro,North America,3,39.016666666666666,125.75
@@ -131,7 +131,6 @@ Maldives,MV,Malé,Maldivian,Maldivian,rufiyaa,Asia,6,4.166666666666667,73.5
 Mali,ML,Bamako,Malian,Malian,CFA franc,Africa,5,12.65,-8.0
 Malta,MT,Valletta,Maltese,Maltese,euro,Europe,2,35.88333333333333,14.5
 Marshall Islands,MH,Majuro,Marshallese,Marshallese,US dollar,Oceania,1,7.1,171.383333
-Martinique,MQ,Fort-de-France,Martinican,Martinican,euro,North America,3,42.0,21.433332999999998
 Mauritania,MR,Nouakchott,Mauritanian,Mauritanian,ouguiya,Africa,5,18.066666666666666,-15.966667000000001
 Mauritius,MU,Port Louis,Mauritian,Mauritian,Mauritian rupee,Africa,5,-20.15,57.483332999999995
 Mexico,MX,Mexico City,Mexican,Mexican,Mexican peso,North America,3,19.433333333333334,-99.133333
@@ -179,7 +178,6 @@ Saint Barthélemy,BL,Gustavia,of Saint Barthélemy,of Saint Barthélemy,euro,Nor
 "Saint Helena, Ascension and Tristan da Cunha",SH,Jamestown,"of Saint Helena, Ascension and Tristan da Cunha","of Saint Helena, Ascension and Tristan da Cunha",Saint Helena pound/pound sterling,Africa,5,-15.933333333333335,-5.716667
 Saint Kitts and Nevis,KN,Basseterre,Kittsian; Nevisian,of Saint Kitts and Nevis,East Caribbean dollar,North America,3,17.3,-62.716667
 Saint Lucia,LC,Castries,Saint Lucian,Saint Lucian,East Caribbean dollar,North America,3,14.0,-61.0
-Saint Martin,MF,Marigot,of Saint Martin,of Saint Martin,euro,North America,3,18.0731,-63.0822
 Saint Pierre and Miquelon,PM,Saint-Pierre,St-Pierrais; Miquelonnais,of Saint Pierre and Miquelon,euro,North America,3,46.76666666666666,-56.183333
 Saint Vincent and the Grenadines,VC,Kingstown,Vincentian,Vincentian; of Saint Vincent and the Grenadines,East Caribbean dollar,North America,3,13.133333333333333,-61.216667
 Samoa,WS,Apia,Samoan,Samoan,tala,Oceania,1,-13.816666666666665,-171.76666699999998
@@ -228,7 +226,6 @@ United Arab Emirates,AE,Abu Dhabi,Emirian,Emirian,UAE dirham,Asia,6,24.466666666
 United Kingdom,UK,London,Briton,British,pound sterling,Europe,2,51.5,-0.083333
 United States,US,Washington DC,American; US citizen,American; of the United States,US dollar,North America,3,38.883333,-77.0
 Uruguay,UY,Montevideo,Uruguayan,Uruguayan,Uruguayan peso,South America,4,-34.85,-56.166667000000004
-US Virgin Islands,VI,Charlotte Amalie,US Virgin Islander,of the US Virgin Islands,US dollar,North America,3,18.35,-64.93333299999999
 Uzbekistan,UZ,Tashkent,Uzbek,Uzbek,sum,Asia,6,41.31666666666667,69.25
 Vanuatu,VU,Port Vila,Vanuatuan,Vanuatuan,vatu,Oceania,1,-17.733333333333334,168.316667
 Venezuela,VE,Caracas,Venezuelan,Venezuelan,bolívar soberano,South America,4,10.483333333333333,-66.866667

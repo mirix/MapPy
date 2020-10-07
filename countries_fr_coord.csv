@@ -74,7 +74,7 @@ Gambie,GM,Banjul,Gambien/  Gambienne,gambien/ gambienne,le dalasi,Africa,5,13.45
 Géorgie,GE,Tbilissi,Géorgien/  Géorgienne,géorgien/ géorgienne,le lari,Europe,2,41.68333333333333,44.833333
 Ghana,GH,Accra,Ghanéen/  Ghanéenne,ghanéen/ ghanéenne,le cedi ghanéen,Africa,5,5.55,-0.216667
 Gibraltar,GI,Gibraltar,de Gibraltar,de Gibraltar,la livre de Gibraltar,Europe,2,36.13333333333333,-5.35
-Grèce,EL,Athènes,Grec/  Grecque,grec/ grecque,l’euro,Europe,2,41.31666666666667,19.816667000000002
+Grèce,EL,Athènes,Grec/  Grecque,grec/ grecque,l’euro,Europe,2,37.983333333333334,23.733333
 Grenade,GD,Saint George’s,Grenadin/  Grenadine,grenadin/ grenadine,le dollar des Caraïbes orientales,North America,3,12.05,-61.75
 Groenland,GL,Nuuk,Groenlandais/  Groenlandaise,groenlandais/ groenlandaise,la couronne danoise,North America,3,64.18333333333334,-51.75
 Guadeloupe,GP,Basse-Terre,Guadeloupéen/  Guadeloupéenne,guadeloupéen/ guadeloupéenne,l’euro,North America,3,39.016666666666666,125.75
@@ -103,7 +103,6 @@ Hongrie,HU,Budapest,Hongrois/  Hongroise,hongrois/ hongroise,le forint,Europe,2,
 Îles Pitcairn,PN,Adamstown,des Îles Pitcairn,des Îles Pitcairn,le dollar néo-zélandais,Oceania,1,-25.066666666666666,-130.083333
 Îles Salomon,SB,Honiara,Salomonais/  Salomonaise,salomonais/ salomonaise,le dollar des Îles Salomon,Oceania,1,-9.433333333333334,159.95
 Îles Turks-et-Caïcos,TC,Cockburn Town,des Îles Turks-et-Caïcos,des Îles Turks-et-Caïcos,le dollar des États-Unis,North America,3,21.466666666666665,-71.133333
-Îles Vierges américaines,VI,Charlotte Amalie,des Îles Vierges américaines,des Îles Vierges américaines,le dollar des États-Unis,North America,3,18.35,-64.93333299999999
 Îles Vierges britanniques,VG,Road Town,des Îles Vierges britanniques,des Îles Vierges britanniques,le dollar des États-Unis,North America,3,18.416666666666668,-64.616667
 Inde,IN,New Delhi,Indien/  Indienne,indien/ indienne,la roupie indienne,Asia,6,28.6,77.2
 Indonésie,ID,Jakarta,Indonésien/  Indonésienne,indonésien/ indonésienne,la rupiah,Asia,6,-6.166666666666668,106.816667
@@ -139,7 +138,6 @@ Maldives,MV,Malé,Maldivien/  Maldivienne,maldivien/ maldivienne,le rufiyaa,Asia
 Mali,ML,Bamako,Malien/  Malienne,malien/ malienne,le franc CFA,Africa,5,12.65,-8.0
 Malte,MT,La Valette,Maltais/  Maltaise,maltais/ maltaise,l’euro,Europe,2,35.88333333333333,14.5
 Maroc,MA,Rabat,Marocain/  Marocaine,marocain/ marocaine,le dirham marocain,Africa,5,34.016666666666666,-6.816667
-Martinique,MQ,Fort-de-France,Martiniquais/  Martiniquaise,martiniquais/ martiniquaise,l’euro,North America,3,42.0,21.433332999999998
 Maurice,MU,Port-Louis,Mauricien/  Mauricienne,mauricien/ mauricienne,la roupie mauricienne,Africa,5,-20.15,57.483332999999995
 Mauritanie,MR,Nouakchott,Mauritanien/  Mauritanienne,mauritanien/ mauritanienne,l’ouguiya,Africa,5,18.066666666666666,-15.966667000000001
 Mexique,MX,Mexico,Mexicain/  Mexicaine,mexicain/ mexicaine,le peso mexicain,North America,3,19.433333333333334,-99.133333
@@ -190,7 +188,6 @@ Saint-Christophe- et-Niévès,KN,Basseterre,de Saint-Christophe-  et-Niévès,de
 "Sainte-Hélène, Ascension et Tristan da Cunha",SH,Jamestown,"de Sainte-Hélène, Ascension et Tristan da Cunha","de Sainte-Hélène, Ascension et Tristan da Cunha",la livre de Sainte-Hélène/la livre sterling,Africa,5,-15.933333333333335,-5.716667
 Sainte-Lucie,LC,Castries,Saint-Lucien/  Saint-Lucienne,saint-lucien/ saint-lucienne,le dollar des Caraïbes orientales,North America,3,14.0,-61.0
 Saint-Marin,SM,Saint-Marin,Saint-Marinais/  Saint-Marinaise,saint-marinais/ saint-marinaise,l’euro,Europe,2,43.93333333333333,12.416667
-Saint-Martin,MF,Marigot,Saint-Martinois/  Saint-Martinoise,saint-martinois/ saint-martinoise,l’euro,North America,3,18.0731,-63.0822
 Saint-Pierre-et-Miquelon,PM,Saint-Pierre,Saint-Pierrais et Miquelonnais/  Saint-Pierrais et Miquelonnaise,saint-pierrais et miquelonnais/ saint-pierrais et miquelonnaise,l’euro,North America,3,46.76666666666666,-56.183333
 Saint-Siège /État de la Cité du Vatican,VA,—/Cité du Vatican,du Saint-Siège/  de l’État de la  Cité du Vatican,du Saint-Siège/ de l’État de la Cité du Vatican,l’euro,Europe,2,41.9,12.45
 Saint-Vincent- et-les-Grenadines,VC,Kingstown,de Saint-Vincent-  et-les-Grenadines,de Saint-Vincent- et-les-Grenadines,le dollar des Caraïbes orientales,North America,3,13.133333333333333,-61.216667

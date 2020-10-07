@@ -4,7 +4,6 @@ Afghanistan,AF,Kabul,Afghane/Afghanin,afghanisch,Afghani,Asia,6,34.5166666666666
 Ålandinseln,AX,Mariehamn,Åländer/Åländerin,åländisch,Euro,Europe,2,60.11666700000001,19.9
 Albanien,AL,Tirana,Albaner/Albanerin,albanisch,Lek,Europe,2,41.31666666666667,19.816667000000002
 Algerien,DZ,Algier,Algerier/Algerierin,algerisch,algerischer Dinar,Africa,5,36.75,3.05
-Amerikanische Jungferninseln,VI,Charlotte Amalie,der Amerikanischen Jungferninseln,der Amerikanischen Jungferninseln,US-Dollar,North America,3,18.35,-64.93333299999999
 Amerikanisch-Samoa,AS,Pago Pago,von Amerikanisch-Samoa,von Amerikanisch-Samoa,US-Dollar,Oceania,1,-14.266666666666667,-170.7
 Andorra,AD,Andorra la Vella,Andorraner/Andorranerin,andorranisch,Euro,Europe,2,42.5,1.516667
 Angola,AO,Luanda,Angolaner/Angolanerin,angolanisch,Kwanza,Africa,5,-8.833333333333334,13.216667000000001
@@ -69,7 +68,7 @@ Georgien,GE,Tiflis,Georgier/Georgierin,georgisch,Lari,Europe,2,41.68333333333333
 Ghana,GH,Accra,Ghanaer/Ghanaerin,ghanaisch,Ghana Cedi,Africa,5,5.55,-0.216667
 Gibraltar,GI,Gibraltar,Gibraltarer/Gibraltarerin,gibraltarisch,Gibraltar-Pfund,Europe,2,36.13333333333333,-5.35
 Grenada,GD,St. George’s,Grenader/Grenaderin,grenadisch,ostkaribischer Dollar,North America,3,12.05,-61.75
-Griechenland,EL,Athen,Grieche/Griechin,griechisch,Euro,Europe,2,41.31666666666667,19.816667000000002
+Griechenland,EL,Athen,Grieche/Griechin,griechisch,Euro,Europe,2,37.983333333333334,23.733333
 Grönland,GL,Nuuk,Grönländer/Grönländerin,grönländisch,dänische Krone,North America,3,64.18333333333334,-51.75
 Guadeloupe,GP,Basse-Terre,von Guadeloupe,von Guadeloupe,Euro,North America,3,39.016666666666666,125.75
 Guam,GU,Hagåtña,Guamer/Guamerin,guamisch,US-Dollar,Oceania,1,13.466666666666667,144.73333300000002
@@ -129,7 +128,6 @@ Mali,ML,Bamako,Malier/Malierin,malisch,CFA-Franc,Africa,5,12.65,-8.0
 Malta,MT,Valletta,Malteser/Malteserin,maltesisch,Euro,Europe,2,35.88333333333333,14.5
 Marokko,MA,Rabat,Marokkaner/Marokkanerin,marokkanisch,marokkanischer Dirham,Africa,5,34.016666666666666,-6.816667
 Marshallinseln,MH,Majuro,Marshaller/Marshallerin,marshallisch,US-Dollar,Oceania,1,7.1,171.383333
-Martinique,MQ,Fort-de-France,von Martinique,von Martinique,Euro,North America,3,42.0,21.433332999999998
 Mauretanien,MR,Nouakchott,Mauretanier/Mauretanierin,mauretanisch,Ouguiya,Africa,5,18.066666666666666,-15.966667000000001
 Mauritius,MU,Port Louis,Mauritier/Mauritierin,mauritisch,Mauritius-Rupie,Africa,5,-20.15,57.483332999999995
 Mexiko,MX,Mexiko-Stadt,Mexikaner/Mexikanerin,mexikanisch,mexikanischer Peso,North America,3,19.433333333333334,-99.133333
@@ -195,7 +193,6 @@ St. Barthélemy,BL,Gustavia,von St. Barthélemy,von St. Barthélemy,Euro,Nort
 "St. Helena, Ascension und Tristan da Cunha",SH,Jamestown,"von St. Helena, Ascension und Tristan da Cunha","von St. Helena, Ascension und Tristan da Cunha",St.-Helena-Pfund/Pfund Sterling,Africa,5,-15.933333333333335,-5.716667
 St. Kitts und Nevis,KN,Basseterre,von St. Kitts und Nevis,von St. Kitts und Nevis,ostkaribischer Dollar,North America,3,17.3,-62.716667
 St. Lucia,LC,Castries,Lucianer/Lucianerin,lucianisch,ostkaribischer Dollar,North America,3,14.0,-61.0
-St. Martin,MF,Marigot,von St. Martin,von St. Martin,Euro,North America,3,18.0731,-63.0822
 Sint Maarten,SX,Philipsburg,von Sint Maarten,von Sint Maarten,Niederländische-Antillen-Gulden,North America,3,18.016666666666666,-63.033333
 St. Pierre und Miquelon,PM,Saint-Pierre,von St. Pierre und Miquelon,von St. Pierre und Miquelon,Euro,North America,3,46.76666666666666,-56.183333
 St. Vincent und Grenadinen,VC,Kingstown,Vincenter/Vincenterin,vincentisch,ostkaribischer Dollar,North America,3,13.133333333333333,-61.216667
